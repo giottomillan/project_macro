@@ -38,4 +38,4 @@ Se puede observar que estamos en un punto de valle parecido al de 1980-1990 y qu
 
 Fuente de datos: Banco Mundial
 
-Herramientas usadas: Python, Graphex
+Herramientas usadas: Python, Graphext
