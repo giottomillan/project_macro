@@ -35,3 +35,7 @@ De todo esto se puede observar que con el paso de los años el mundo ha ido a me
 ![Trend and Seasonality.png](/Images/Trend%20and%20Seasonality.png)
 
 Se puede observar que estamos en un punto de valle parecido al de 1980-1990 y que parte de la recuperación podría venir en 2025, teniendo en cuenta la dificultad inherente que hay en la predicción y la observación de los patrones en el tiempo.
+
+Fuente de datos: Banco Mundial
+
+Herramientas usadas: Python, Graphex
